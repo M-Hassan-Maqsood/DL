@@ -1,1 +1,1 @@
-I am using mnist dataset name fashion_mnist and applied deep neural network on it.I have gained 91% accuracy in training data and 88% accuracy in testing data and then predict from test dataset
+I am using different types of datasets of mnist. I have performed both training and testing on it and check its accuracy. I also predict its performance on testing data.
